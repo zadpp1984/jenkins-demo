@@ -22,7 +22,7 @@ public class JenkinsDemoApplication {
     @RequestMapping("/hi")
     public @ResponseBody
     String hi() {
-        return "hi!";
+        return "hi  aaa!";
     }
 
 }
